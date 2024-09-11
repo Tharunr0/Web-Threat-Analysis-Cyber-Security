@@ -21,8 +21,7 @@ This project implements web threat analysis using both machine learning and deep
 
 ## Contributing
 - We welcome contributions to enhance this project! To contribute:
-
-# Fork the repository.
+-  Fork the repository.
 - Create a new branch (git checkout -b feature-branch).
 - Make your changes and commit them (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature-branch).
